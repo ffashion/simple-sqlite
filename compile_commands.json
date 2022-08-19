@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/core/hash.c.o -c /Users/ffashion/project/simple-sqlite/core/hash.c",
+  "file": "/Users/ffashion/project/simple-sqlite/core/hash.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/core/os.c.o -c /Users/ffashion/project/simple-sqlite/core/os.c",
+  "file": "/Users/ffashion/project/simple-sqlite/core/os.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/core/random.c.o -c /Users/ffashion/project/simple-sqlite/core/random.c",
+  "file": "/Users/ffashion/project/simple-sqlite/core/random.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/core/util.c.o -c /Users/ffashion/project/simple-sqlite/core/util.c",
+  "file": "/Users/ffashion/project/simple-sqlite/core/util.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/core/pager.c.o -c /Users/ffashion/project/simple-sqlite/core/pager.c",
+  "file": "/Users/ffashion/project/simple-sqlite/core/pager.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/core/btree.c.o -c /Users/ffashion/project/simple-sqlite/core/btree.c",
+  "file": "/Users/ffashion/project/simple-sqlite/core/btree.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/main.c.o -c /Users/ffashion/project/simple-sqlite/main.c",
+  "file": "/Users/ffashion/project/simple-sqlite/main.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/test/vfstest.c.o -c /Users/ffashion/project/simple-sqlite/test/vfstest.c",
+  "file": "/Users/ffashion/project/simple-sqlite/test/vfstest.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/test/pagetest.c.o -c /Users/ffashion/project/simple-sqlite/test/pagetest.c",
+  "file": "/Users/ffashion/project/simple-sqlite/test/pagetest.c"
+},
+{
+  "directory": "/Users/ffashion/project/simple-sqlite/build",
+  "command": "/usr/bin/clang -I/Users/ffashion/project/simple-sqlite/core -Wno-implicit-function-declaration -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu11 -o CMakeFiles/simple_sqlite.dir/test/btreetest.c.o -c /Users/ffashion/project/simple-sqlite/test/btreetest.c",
+  "file": "/Users/ffashion/project/simple-sqlite/test/btreetest.c"
+}
+]
